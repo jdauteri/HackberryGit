@@ -105,7 +105,7 @@ ID,Request_Number,Sender,Sender_Location,Request,Language_Request,Recipient,Reci
 105,NA,Unspecified,Unspecified,Please Don't Leave Me Anymore Darling,English,Unspecified,Unspecified,Unspecified
 106,NA,Friend,"Hackberry, LA",Soldier's Last Letter,English,Friend,Stationed,War
 107,4,Friend,"Jennings, LA",Dans Le Grans Bois,French,Friend ,Unspecified,Regular Listener
-108,5,Friend,"Hackberry, LA",The Honey Song,French,Friend,Stationed,Special Occasion
+108,5,Friend,"Hackberry, LA",The Honey Song,French,Friend,Stationed,War
 109,NA,Sibling,"Iowa, LA",Pistol Packing Mama,English,Sibling,"Lacassine, LA",Unspecified
 110,2,Friend,"Jennings, LA",I Don't Want a Sweetheart,English,Friend,"Lake Arthur, LA",Unspecified
 111,3,Sibling,"Gueydan, LA",It's Love Lane,Unclear,Sibling,"Hackberry, LA",Unspecified
@@ -127,7 +127,7 @@ ID,Request_Number,Sender,Sender_Location,Request,Language_Request,Recipient,Reci
 127,NA,Friend,"Elton, LA",Precious Jewels,English,Friend,"Welsh, LA",Unspecified
 128,2,Unspecified,"Lake Charles, LA",Please Don't Leave Me Anymore Darling,English,Unspecified,"Westlake, LA",Unspecified
 129,5,Unspecified,"Iowa, LA",Any Song,Unclear,Unspecified,"Woodlawn, LA",Unspecified
-130,NA,Friend,"Welsh, LA",Have I Stayed Away Too Long,English,Friend,Stationed,Love
+130,NA,Friend,"Welsh, LA",Have I Stayed Away Too Long,English,Friend,Stationed,War
 131,NA,Unspecified,"Iowa, LA",Jolie Blonde,French,Unspecified,"Iowa, LA",Unspecified
 132,NA,Friend,"Lake Charles, LA",Put Your Arms Around Me Honey,English,Friend,Unspecified,Love
 133,NA,Friend,"Hackberry, LA",Lonely Mound of Clay,English,Friend,"Hackberry, LA",Love
@@ -149,8 +149,8 @@ ID,Request_Number,Sender,Sender_Location,Request,Language_Request,Recipient,Reci
 149,NA,Unspecified,"Hackberry, LA",God Bless My Darling He's Somewhere,English,Unspecified,Stationed,War
 150,NA,Unspecified,"Gueydan, LA",Any Song,French,Unspecified,Unspecified,Unspecified
 151,NA,Friend,"Lake Charles, LA",They Took the Stars Out of Heaven,English,Friend,"San Antonio, TX",War
-152,NA,Spouse,"Lake Arthur, LA",Soldier's Last Letter,English,Spouse,Stationed,Special Occasion
-153,NA,Sibling,"Lake Arthur, LA",Take Me Back and Try Me One More Time,English,Sibling,Stationed,Special Occasion
+152,NA,Spouse,"Lake Arthur, LA",Soldier's Last Letter,English,Spouse,Stationed,War
+153,NA,Sibling,"Lake Arthur, LA",Take Me Back and Try Me One More Time,English,Sibling,Stationed,War
 154,NA,Friend,"Kaplan, LA",I Walk Alone,English,Friend,"Kaplan, LA",Unspecified
 155,NA,Unspecified,"Lake Charles, LA",Take Me Back and Try Me One More Time,English,Unspecified,"Camp Howze, TX",War
 156,NA,Unspecified,"Welsh, LA",Take Me Back and Try Me One More Time,English,Unspecified ,Unspecified,Regular Listener
@@ -180,7 +180,7 @@ ID,Request_Number,Sender,Sender_Location,Request,Language_Request,Recipient,Reci
 180,5,Relative,"Jennings, LA",I Don't Want a Sweetheart,English,Relative,"Jennings, LA",Regular Listener
 181,NA,Unspecified,"Hackberry, LA",You Can't Put That Monkey on My Back,English,Unspecified,Stationed,Unspecified
 182,NA,Sibling,"Grand Chenier, LA",Don't Sweetheart Me,English,Sibling,Stationed,War
-183,NA,Relative,"Lake Charles, LA",Soldier's Last Letter,English,Relative,Stationed,War 
+183,NA,Relative,"Lake Charles, LA",Soldier's Last Letter,English,Relative,Stationed,War
 184,NA,Friend,"Iowa, LA",South,Unclear,Friend,"Lacassine, LA",Unspecified
 185,2,Unspecified,"Lake Charles, LA",Wednesday Night Waltz,French,Unspecified,"Lake Charles, LA",Regular Listener
 186,NA,Child,"Jennings, LA",The Gueydan Blues,French,Parent,Unspecified,Regular Listener
@@ -214,7 +214,7 @@ ID,Request_Number,Sender,Sender_Location,Request,Language_Request,Recipient,Reci
 174_1,NA,Unspecified,"Welsh, LA",Pipeliner Blues,Unclear,Unspecified,Unspecified,Regular Listener
 18_1,NA,Unspecified,"Lacassine, LA",Born to Lose,English,Unspecified,"Lacassine, LA",Special Occasion
 180_1,NA,Child,"Jennings, LA",Any Song,French,Parent,"Jennings, LA",Regular Listener
-181_1,NA,Unspecified,"Hackberry, LA",Too Late To Worry Too Blue To Cry,English,Unspecified,Stationed,Unspecified
+181_1,NA,Unspecified,"Hackberry, LA",Too Late To Worry Too Blue To Cry,English,Unspecified,Stationed,War
 21_1,NA,Unspecified,"Lacassine, LA",God Bless My Darling He's Somewhere,English,Unspecified,"Lacassine, LA",Unspecified
 21_2,NA,Unspecified,"Lacassine, LA",Dusty Skies,English,Unspecified,"Lacassine, LA",Unspecified
 23_1,NA,Unspecified,"Lake Charles, LA",Milk Cow Blues,English,Unspecified,Unspecified,Unspecified
